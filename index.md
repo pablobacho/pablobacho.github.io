@@ -14,4 +14,4 @@ I love [writing firmware for embedded devices and designing electronic circuits]
 
 I am also the IT guy in a family of four.
 
-![Photo of me at my desk](/images/pablobacho_family.jpg)
+![Family photo](/images/pablobacho_family.jpg)
