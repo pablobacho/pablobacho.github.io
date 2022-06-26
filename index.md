@@ -2,9 +2,9 @@
 layout: page
 ---
 
-My name is **Pablo**, and I am an **Embedded Systems Engineer** living in [*Cádiz, Spain* (Google Maps)](https://goo.gl/maps/5E74DaQcQxSe71aZ9).
+My name is **Pablo**, and I am an **Embedded Systems Engineer** living in *Virginia Beach, VA (USA)*.
 
-I do [freelance work](/embedded/) designing electronics and developing firmware for embedded systems, as well as consulting helping companies implement or outsource their electronics design process. I speak English and Spanish.
+I love [writing firmware for embedded devices and designing electronic circuits](/embedded/), as well as helping others implement or outsource their electronics design process. I speak English and Spanish.
 
 ![Photo of me at my desk](/images/pablobacho_about.jpg)
 
