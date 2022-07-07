@@ -20,7 +20,7 @@ I can help you in every step of your project, or I can support specific stages o
 
 ![Photo of me at my desk](/images/pablobacho_working.jpg)
 
-I am available for remote-work worldwide, in English or Spanish. Currently, I am in Spain and my [timezone is Europe/Madrid](https://www.google.com/search?q=Time+in+Madrid%2C+Spain).
+I am available for remote-work worldwide, in English or Spanish. Currently, I am in Virginia Beach, VA (USA), and my [timezone is Eastern Time US](https://www.google.com/search?q=eastern+time).
 
 ### Some projects I have worked on
 
